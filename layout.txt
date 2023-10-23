@@ -5,3 +5,10 @@ the following pages will be made:
 - contact me
 - learning blog
 - resources I find useful
+
+what I want it to do:
+
+- send an email boilerplate
+- be connected to a blog api
+- allow me to store a mail list for blog updates
+- automate some processes
