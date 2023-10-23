@@ -1,0 +1,7 @@
+the following pages will be made:
+
+- home
+- accomplishments
+- contact me
+- learning blog
+- resources I find useful
