@@ -4,11 +4,25 @@ the following pages will be made:
 - accomplishments
 - contact me
 - learning blog
+> latest page
+> previous posts (chronological)
+> topics discussed
 - resources I find useful
 
 what I want it to do:
 
 - send an email boilerplate
+> collect email list and save in dB
 - be connected to a blog api
 - allow me to store a mail list for blog updates
 - automate some processes
+> blog auto emailing mail list
+> blog auto updating certain parts of site
+
+eventually do:
+
+- sell something?
+> cool computer shirts?
+- link to courses completed (Cisco site, etc)
+- offer services 
+
